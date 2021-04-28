@@ -1,13 +1,8 @@
-Broken Rock Paper Scissors
+Rock Paper Scissors
 --------------------------
 
-Here is a URL to the broken version of this application:
-
-http://www.wa4e.com/code/rps/
-
-Here is a URL to a working version of this application:
-
-http://www.wa4e.com/solutions/rps/
+You can serve it with this command, if you launch it in the directory containing the files:
+` php -S localhost:8888`
 
 
 
